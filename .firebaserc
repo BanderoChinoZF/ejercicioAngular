@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pruebareclutamiento-angular": {
+      "hosting": {
+        "ejercicio-angular": [
+          "pruebareclutamiento-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pruebareclutamiento-angular"
+  }
+}
